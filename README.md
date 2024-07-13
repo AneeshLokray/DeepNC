@@ -1,4 +1,4 @@
-# DeepNC
+# Drug Target Interaction using DeepNC
 - DeepNC is a framework designed to predict drug-target interactions (DTI) using Graph Neural Networks (GNNs). 
 - This utilizes two GNN algorithms: Generalized Convolutional Networks (GEN) and Graph Convolutional Networks (GCN).
 - It aims to accurately predict the binding affinity of drugs and targets, which is a critical step in drug discovery.
